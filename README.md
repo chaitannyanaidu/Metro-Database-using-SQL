@@ -1,5 +1,8 @@
 # Metro-Database-using-SQL
 
+## Project Description
+This project is a database management system (DBMS) designed to manage a metro system. It includes database schemas, queries, and code to handle entities such as metro stations, routes, tickets, employees, and balances.
+
 ## Entity names and attributes
 -Metro entity: Attributes are Metro_id (primary key), Metrostation and Line.
 
